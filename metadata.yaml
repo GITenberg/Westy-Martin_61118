@@ -1,0 +1,29 @@
+_repo: Westy-Martin_61118
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fitzhugh, Percy Keese
+    aliases:
+    - Lloyd, Hugh
+    - Fitzhugh, P. K. (Percy Keese)
+    - Fitzhugh, Percy K.
+    birthdate: 1876
+    deathdate: 1950
+    gutenberg_agent_id: '2132'
+    url: http://www.gutenberg.org/2009/agents/2132
+    wikipedia: https://en.wikipedia.org/wiki/Percy_Keese_Fitzhugh
+description: ''
+gutenberg_issued: '2020-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61118'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boy Scouts of America -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Westy Martin
+url: http://www.gutenberg.org/ebooks/61118
